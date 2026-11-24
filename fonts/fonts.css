@@ -1,0 +1,4 @@
+/* Both fonts are SIL Open Font License (see OFL-*.txt). Andika is designed for early readers. */
+@font-face { font-family: 'Andika'; src: url('Andika-400.woff2') format('woff2'); font-weight: 400; font-display: swap; }
+@font-face { font-family: 'Andika'; src: url('Andika-700.woff2') format('woff2'); font-weight: 700; font-display: swap; }
+@font-face { font-family: 'Fredoka'; src: url('Fredoka-var.ttf') format('truetype'); font-weight: 300 700; font-display: swap; }
